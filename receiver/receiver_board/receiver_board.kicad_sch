@@ -1213,10 +1213,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "60fbe99c-d827-4674-89d8-ba3bda13e5a1")
 		(property "Reference" "SC2"
-			(at 26.67 29.8449 0)
+			(at 15.24 34.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1225,7 +1224,7 @@
 			)
 		)
 		(property "Value" "Solar_Cells"
-			(at 26.67 32.3849 0)
+			(at 12.192 36.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1350,7 +1349,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "caf17c0c-65bc-4e4d-b787-846300ccb4d0")
 		(property "Reference" "#FLG03"
 			(at 39.37 29.845 0)
@@ -1362,7 +1360,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 39.37 26.67 0)
+			(at 36.83 34.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
