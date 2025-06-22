@@ -16,16 +16,21 @@ To use a PCB model, utilize the fabrication files located under `transmitter\tra
 **<u>Transmitter Board:</u>**
 
 ![Transmitter Board 3D Model](./images/tx_3d_model.jpg)
+
 The pins on the PCB are, from top to bottom: Power, Ground, and Signal. The signal pin connects to Arduino digital pin 13.
 
 **<u>Receiver Board:</u>**
+
 ![Receiver Board 3D Model](./images/rx_3d_model.jpg)
+
 The receiver module requires a solar panel on the empty slot at the top. The pins on the PCB are, from left to right: Ground, Power (1V), Power (5V), and Signal. The signal pin connects to Arduino digital pin 2.
 
 ---
 
 ### __2. Building Your Own Module:__
+
 ![Circuit Schematic](./images/circuit_schematics.jpg)
+
 By following the schematics, you can build the circuit on a protoboard or similar (this is how we tested our system).
 
 > [!WARNING]
