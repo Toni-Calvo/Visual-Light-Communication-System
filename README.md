@@ -47,6 +47,7 @@ Once everything is connected, start both Arduinos. Any message written through t
 ---
 
 ## 🔮 Future Improvements
+* Add the possibility to regulate the light intensity (Pulse Duty Cycle).
 * Allow bidirectional communication.
 * Enable the transmission of non-alphabetical characters.
 * Test the system with more than one receiver.
